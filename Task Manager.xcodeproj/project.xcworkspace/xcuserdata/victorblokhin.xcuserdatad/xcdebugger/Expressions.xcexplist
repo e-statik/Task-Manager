@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TaskViewController.plannedEnd.didset:TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dt as Date">
+            </PersistentString>
+            <PersistentString
+               value = "now as Date">
+            </PersistentString>
+            <PersistentString
+               value = "dt.timeIntervalSince1970">
+            </PersistentString>
+            <PersistentString
+               value = "now.timeIntervalSince1970">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskViewController.shouldPerformSegue(withIdentifier:sender:):TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fieldName.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.init(coder:):CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentColorNameIndex">
+            </PersistentString>
+            <PersistentString
+               value = "Constants.categoryColors[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectCategoryViewController.tableView(_:cellForRowAt:):SelectCategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.collectionColorSelect(sender:):CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "type:(of: sender.superview)">
+            </PersistentString>
+            <PersistentString
+               value = "sv.name">
+            </PersistentString>
+            <PersistentString
+               value = "selectedColorCell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectDateViewController.dateTime.didset:SelectDateViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "datePicker">
+            </PersistentString>
+            <PersistentString
+               value = "value as Date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskViewController.prepare(for:sender:):TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "plannedEnd">
+            </PersistentString>
+            <PersistentString
+               value = "task">
+            </PersistentString>
+            <PersistentString
+               value = "error.userInfo">
+            </PersistentString>
+            <PersistentString
+               value = "state.isDone">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryListViewController.getData():CategoryListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "categoriesData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectStateViewController.viewDidLoad():SelectStateViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedId">
+            </PersistentString>
+            <PersistentString
+               value = "categoryStatesData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryListViewController.viewWillAppear(_:):CategoryListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController?.viewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectCategoryViewController.buttonOKTap(_:):SelectCategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableView.indexPathForSelectedRow">
+            </PersistentString>
+            <PersistentString
+               value = "category">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskListViewController.numberOfSections(in:):TaskListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sections.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.collectionView(_:cellForItemAt:):CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Constants.categoryColors[indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "currentColorNameIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskListViewController.viewWillAppear(_:):TaskListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController?.viewControllers[0]. restorationIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "self.navigationController?.viewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GeoService.obtainAddress(lat:lon:completion:):GeoService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;response&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskViewController.viewDidLoad():TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "task.dateDone">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectDateViewController.viewWillAppear(_:):SelectDateViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "datePicker">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectCategoryViewController.viewDidLoad():SelectCategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedId">
+            </PersistentString>
+            <PersistentString
+               value = "category">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.collectionView(_:willDisplay:forItemAt:):CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView.indexPathsForVisibleItems.last">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskViewController.handleCategorySelect(notification:):TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vc.category">
+            </PersistentString>
+            <PersistentString
+               value = "category">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MapViewController.TapAction(_:):MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.labelAddress.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectDateViewController.viewWillLayoutSubviews():SelectDateViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewHeader">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GeoResult.init(from:):GeoService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response">
+            </PersistentString>
+            <PersistentString
+               value = "values[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskViewController.openCategoryPicker():TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vc.category">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectCategoryViewController.tableView(_:numberOfRowsInSection:):SelectCategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "categoriesData.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskViewController.handleDateTimeSelect(notification:):TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vc.formattedDateTime">
+            </PersistentString>
+            <PersistentString
+               value = "vc.dateTime">
+            </PersistentString>
+            <PersistentString
+               value = "vc.targetFieldName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectDateViewController.buttonOKTap(_:):SelectDateViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "datePicker.date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectCategoryViewController.tableView(_:didSelectRowAt:):SelectCategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableView.indexPathForSelectedRow">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.tableView(_:numberOfRowsInSection:):CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "states.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.viewDidLoad():CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentColorNameIndex">
+            </PersistentString>
+            <PersistentString
+               value = "category.color">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.tableView(_:cellForRowAt:):CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "states[indexPath.row].isDone">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskViewController.adjustForKeyboard(notification:):TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "keyboardFrame.cgRectValue.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskListViewController.getData():TaskListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSDate.now">
+            </PersistentString>
+            <PersistentString
+               value = "NSDate.tomorrow">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskViewController.openStatePicker():TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "category.states">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UnderlineButton.deselectButton():UnderlineButton.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "borderLayer">
+            </PersistentString>
+            <PersistentString
+               value = "self.layer.sublayers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.prepare(for:sender:):CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentColorName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StateViewController.prepare(for:sender:):StateViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "switchCloser.isOn">
+            </PersistentString>
+            <PersistentString
+               value = "fieldName.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.getStatesData():CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentColorNameIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectCategoryTableViewCell.setSelected(_:animated:):SelectCategoryTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "labelName.text">
+            </PersistentString>
+            <PersistentString
+               value = "selected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.currentColorName.didset:CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentColorNameIndex">
+            </PersistentString>
+            <PersistentString
+               value = "currentColorName">
+            </PersistentString>
+            <PersistentString
+               value = "Constants.categoryColors[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
